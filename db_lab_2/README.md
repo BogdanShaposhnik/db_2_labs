@@ -1,6 +1,2 @@
-```bash
-docker-compose up -d redis_commaner
-pipenv install
-pipenv shell
-python main.py
-```
+# лаб2
+# звіт https://docs.google.com/document/d/1KxRlTpJ2hnwosWJl2PNOelRwOY9BrZUQKC-wiERl23M/
